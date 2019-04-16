@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gavin Persaud Welcome Page!
+                    About Page
                 </div>
 
                 <div class="links">
